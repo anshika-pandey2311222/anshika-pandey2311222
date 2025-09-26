@@ -28,13 +28,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anshika-pandey2311222.anshika-pandey2311222&"  />
-</div>
-
-###
-
-<h3 align="center">🚀 AI/ML Enthusiast | Data Analyst | Full-Stack Developer</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Data Analyst </h3>
 
 ---
 
@@ -76,7 +70,22 @@
 </p>
 
 ---
+## 📊 Data Analysis & Tools
 
+I am proficient in **analyzing, visualizing, and interpreting data** using modern tools and libraries.  
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,excel,powerbi" />
+</p>
+
+**Key Skills:**  
+- Data cleaning, wrangling, and preprocessing  
+- Statistical analysis and visualization  
+- Dashboard creation and reporting (Power BI, Excel)  
+- Data-driven decision making  
+- Python libraries: **NumPy, Pandas, Matplotlib**
+
+---
 ### 🛠 Projects  
 
 #### 📘 AlgoMate  
