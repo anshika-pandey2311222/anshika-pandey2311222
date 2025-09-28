@@ -23,7 +23,7 @@
 
 ###
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+Portfolio;Hi,+I'm+Anshika+Pandey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
 </p>
 
 ###
