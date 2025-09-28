@@ -23,15 +23,18 @@
 
 ###
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+profile;Hi,+I'm+Anshika+Pandey" alt="Typing SVG" />
 </p>
 
 ###
-
 <h3 align="center">🚀 AI/ML Enthusiast | Data Analyst </h3>
 
 ---
-
+###
+<h3>LIVE PORTFOLIO:</h3>
+  <a href="https://anshika-pandey2311222.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-blue?style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 ### 👩‍💻 About Me  
  
 - 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at **Pranveer Singh Institute of Technology, Kanpur**  
