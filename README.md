@@ -31,10 +31,11 @@
 
 ---
 ###
-<h3>LIVE PORTFOLIO:</h3>
+<h3> PORTFOLIO PREVIEW:</h3>
   <a href="https://anshika-pandey2311222.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-blue?style=for-the-badge" height="25" alt="portfolio logo" />
+    <img src="https://img.shields.io/badge/%20Live%20Portfolio-blue?style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
+  
 ### 👩‍💻 About Me  
  
 - 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at **Pranveer Singh Institute of Technology, Kanpur**  
