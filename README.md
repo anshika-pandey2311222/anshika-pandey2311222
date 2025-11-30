@@ -27,7 +27,7 @@
 </p>
 
 ###
-<h3 align="center">🚀 AI/ML Enthusiast | Data Analyst </h3>
+<h3 align="center">🚀 Software Developer | AI/ML | Data Analyst </h3>
 
 ---
 ###
