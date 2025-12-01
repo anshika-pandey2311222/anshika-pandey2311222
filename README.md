@@ -1,125 +1,133 @@
-
-###
 <div align="center">
-  <a href="https://anshika-pandey2311222.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-blue?style=for-the-badge" height="25" alt="portfolio logo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profile!;Hi+I'm+Anshika+Pandey+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%26ML-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech AIML" />
+  <img src="https://img.shields.io/badge/Pranveer%20Singh%20Institute-Kanpur-orange?style=for-the-badge&logo=university&logoColor=white" alt="PSIT Kanpur" />
+  <img src="https://img.shields.io/badge/Software%20Developer-Fullstack-green?style=for-the-badge&logo=code&logoColor=white" alt="Developer" />
+</p>
+
+<div align="center">
+  <a href="https://anshika-pandey2311222.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/anshikapandeyy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/anshikapandeyy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="mailto:pandey.anshika7007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="mailto:pandey.anshika7007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
   </a>
-  <a href="https://github.com/anshika-pandey2311222" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://github.com/anshika-pandey2311222">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
-  <a href="https://leetcode.com/u/anshika_pandey0710/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://leetcode.com/u/anshika_pandey0710/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" />
   </a>
-  <a href="https://www.hackerrank.com/profile/2k23_psitaiml234" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://www.hackerrank.com/profile/2k23_psitaiml234">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" />
   </a>
 </div>
 
-###
+---
+
+## 🚀 About Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+profile;Hi,+I'm+Anshika+Pandey" alt="Typing SVG" />
+  <em>Software Developer | AI/ML Enthusiast | Data Analyst</em>
 </p>
 
-###
-<h3 align="center">🚀 Software Developer | AI/ML | Data Analyst </h3>
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** @ Pranveer Singh Institute of Technology, Kanpur
+- 💻 Building **scalable web apps** and **AI/ML models**
+- 📊 Expert in **Data Analysis & Visualization** (Python, Power BI)
+- 🔭 Working on **GoTicket** (Bus Booking) & **AlgoMate** (DSA Platform)
+- 🎯 Passionate about **DSA**, **Fullstack Development**, and **Predictive Modeling**
 
----
-###
-<h3> PORTFOLIO PREVIEW:</h3>
-  <a href="https://anshika-pandey2311222.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/%20Live%20Portfolio-blue?style=for-the-badge" height="25" alt="portfolio logo" />
-  </a>
-  
-### 👩‍💻 About Me  
- 
-- 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at **Pranveer Singh Institute of Technology, Kanpur**  
-- 📊 Strong interest in **Data Analysis & Visualization** using **Python, Pandas, NumPy, and Power BI**  
-- 💻 Passionate about building **AI/ML models**, solving **DSA problems**, and creating **scalable web applications**  
-- 🔭 Currently working on **GoTicket** and **AlgoMate**  
-- 📚 Exploring **statistical analysis, predictive modeling, and modern AI/ML frameworks**  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pandey2311222&theme=radical&hide_border=true" width="38%" />
+</div>
 
 ---
 
+## 🛠️ Tech Stack
 
-## 💻 Tech Stack
-
-**Programming Languages:**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java" />
+### 🌐 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java" width="80" />
 </p>
 
-**Web Development:**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+### 💻 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" width="200" />
 </p>
 
-**Databases:**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="80" />
 </p>
 
-**Frameworks & Tools:**
-
-<p>
-<img src="https://skillicons.dev/icons?i=express,bootstrap,tailwind,git,github,docker,firebase,vscode,powerbi" />
+### ⚙️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,docker,firebase,vscode" width="300" />
 </p>
 
 ---
-## 📊 Data Analysis & Tools
 
-I am proficient in **analyzing, visualizing, and interpreting data** using modern tools and libraries.  
+## 🔥 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,excel,powerbi" />
+### 📘 **[AlgoMate](https://github.com/anshika-pandey2311222/AlgoMate)**
+> **Interactive DSA Learning Platform** with AI Chatbot & In-browser Compiler
+Tech: MERN Stack | React | Tailwind | APIs
+🌐 Live: https://algomate-production.up.railway.app/
+
+
+### 🚌 **[GoTicket](https://github.com/anshika-pandey2311222)**
+> **Fullstack Bus Ticket Booking** with Real-time GPS & AI Chatbot
+Tech: MERN | JWT | GPS APIs | Seat Management
+🌐 Coming Soon!
+
+### 🌾 **[KrishiNex.AI](https://github.com/anshika-pandey2311222/KrishiNex.AI)**
+
+> **AI-driven crop recommendation + soil nutrient analysis system** 
+Tech: Python · FastAPI · ML Pipelines · React · Tailwind
+---
+
+
+## 🏆 Coding Profiles
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/anshika_pandey0710/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/2k23_psitaiml234">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:pandey.anshika7007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshikapandeyy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://anshika-pandey2311222.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" /></a>
 </p>
 
-**Key Skills:**  
-- Data cleaning, wrangling, and preprocessing  
-- Statistical analysis and visualization  
-- Dashboard creation and reporting (Power BI, Excel)  
-- Data-driven decision making  
-- Python libraries: **NumPy, Pandas, Matplotlib**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshika-pandey2311222&color=radical&style=for-the-badge" alt="Profile Views" />
+</div>
 
----
-### 🛠 Projects  
+<br/>
 
-#### 📘 AlgoMate  
-An interactive **DSA learning platform** with AI chatbot, in-browser compiler, and topic-wise DSA course.  
-
-**Tech:** MERN, React.js, Tailwind, API Integration  
-🔗 [View on GitHub](https://github.com/anshika-pandey2311222/AlgoMate) | 🌐 [Live Demo](https://algomate-production.up.railway.app/)  
-
-#### 🚍 GoTicket  
-A full-stack bus ticket booking system with **real-time seat availability**, **GPS tracking**, and **AI chatbot integration**.  
-
-**Tech:** MERN, React.js, JWT, GPS API  
-🌐 coming soon!
-
----
-
-### 🏆 Coding Profiles  
-
-* [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/anshika_pandey0710/)  Problem-solving & algorithms
-* [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml234)  Verified coding skills
----
-
-### 📫 Contact Me  
-
-- 📧 **Email:** [pandey.anshika7007@gmail.com](mailto:pandey.anshika7007@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/anshikapandeyy](https://www.linkedin.com/in/anshikapandeyy/)  
-- 💻 **GitHub:** [github.com/anshika-pandey2311222](https://github.com/anshika-pandey2311222)  
-
-
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&lines=Thanks+for+visiting!+%F0%9F%93%9A;Keep+building+awesome+things!+%E2%9C%A8" alt="Thanks" />
+</div>
 
 
