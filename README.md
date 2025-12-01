@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-AI%26ML-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech AIML" />
   <img src="https://img.shields.io/badge/Pranveer%20Singh%20Institute-Kanpur-orange?style=for-the-badge&logo=university&logoColor=white" alt="PSIT Kanpur" />
-  <img src="https://img.shields.io/badge/Software%20Developer-Fullstack-green?style=for-the-badge&logo=code&logoColor=white" alt="Developer" />
+  <img src="https://img.shields.io/badge/Software%20Developer-AIML-green?style=for-the-badge&logo=code&logoColor=white" alt="Developer" />
 </p>
 
 <div align="center">
@@ -33,9 +33,8 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <em>Software Developer | AI/ML Enthusiast | Data Analyst</em>
-</p>
+  **<em>Software Developer | AI/ML Enthusiast | Data Analyst</em>**
+
 
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning** @ Pranveer Singh Institute of Technology, Kanpur
 - 💻 Building **scalable web apps** and **AI/ML models**
@@ -120,9 +119,6 @@ Tech: Python · FastAPI · ML Pipelines · React · Tailwind
   <a href="https://anshika-pandey2311222.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshika-pandey2311222&color=radical&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <br/>
 
