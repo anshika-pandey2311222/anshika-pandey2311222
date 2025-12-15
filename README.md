@@ -40,11 +40,9 @@
 - 💻 Building **scalable web apps** and **AI/ML models**
 - 📊 Expert in **Data Analysis & Visualization** (Python, Power BI)
 - 🔭 Working on **GoTicket** (Bus Booking) & **AlgoMate** (DSA Platform)
-- 🎯 Passionate about **DSA**, **Fullstack Development**, and **Predictive Modeling**
+- 🎯 Passionate about **DSA**, **AIML** and **Predictive Modeling**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pandey2311222&theme=radical&hide_border=true" width="38%" />
-</div>
+
 
 ---
 
