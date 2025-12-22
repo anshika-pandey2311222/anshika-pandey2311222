@@ -46,50 +46,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" width="80" />
-</p>
-
-### 💻 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" width="200" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="80" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,docker,firebase,vscode" width="300" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 📘 **[AlgoMate](https://github.com/anshika-pandey2311222/AlgoMate)**
-> **Interactive DSA Learning Platform** with AI Chatbot & In-browser Compiler
-Tech: MERN Stack | React | Tailwind | APIs
-🌐 Live: https://algomate-production.up.railway.app/
-
-
-### 🚌 **[GoTicket](https://github.com/anshika-pandey2311222)**
-> **Fullstack Bus Ticket Booking** with Real-time GPS & AI Chatbot
-Tech: MERN | JWT | GPS APIs | Seat Management
-🌐 Coming Soon!
-
-### 🌾 **[KrishiNex.AI](https://github.com/anshika-pandey2311222/KrishiNex.AI)**
-
-> **AI-driven crop recommendation + soil nutrient analysis system** 
-Tech: Python · FastAPI · ML Pipelines · React · Tailwind
----
-
-
 ## 🏆 Coding Profiles
 
 <table align="center">
