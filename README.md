@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-  **<em>Software Developer | AI/ML Enthusiast | Data Analyst</em>**
+  **<em>Software Developer | AI/ML Enthusiast</em>**
 
 
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning** @ Pranveer Singh Institute of Technology, Kanpur
